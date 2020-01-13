@@ -20,4 +20,4 @@ print("x is {0:d}, y is {1:.2f}, z is \"{2:s}\"".format(x, y, z))
 
 # Finally, print the same thing using an f-string
 
-print(f"x is {x}, y is {y:.3}, z is \"{z}\"")
+print(f"x is {x}, y is {y:.2f}, z is \"{z}\"")
